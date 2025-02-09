@@ -1,0 +1,27 @@
+## Configure a variable for the web service base address.
+
+@base_address = https://localhost:7114/api/customers/
+
+DELETE {{base_address}}
+
+###
+GET {{base_address}}abcxy
+### Make a PUT request to the base address.
+PUT {{base_address}}abcxy
+Content-Type: application/json
+
+{
+ "customerId":"abcxy",   
+"companyName": "Fly Angelo",
+"contactName": "Mol",
+"contactTitle": "Ms",
+"address": "Main Street",
+"city": "PLK",
+"region": "NY",
+"postalCode": "0790",
+"country": "SA",
+"phone": "(123) 555-6789"
+}
+
+
+
