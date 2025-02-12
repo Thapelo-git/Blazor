@@ -5,5 +5,16 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-
+    <ItemGroup>
+<!-- change Sqlite to SqlServer if you prefer -->
+<ProjectReference Include="..\Northwind.DataContext.Sqlite\Northwind.DataContext.Sqlite.csproj" />
+</ItemGroup>
+<ItemGroup>
+<Using Include="Northwind.EntityModels" />
+</ItemGroup>
+<ItemGroup>
+<!-- change Sqlite to SqlServer if you prefer -->
+<ProjectReference Include="..\Northwind.DataContext.Sqlite\Northwind.DataContext.Sqlite.csproj" />
+<ProjectReference Include="..\Northwind.Blazor.Services\Northwind.Blazor.Services.csproj" />
+</ItemGroup>
 </Project>

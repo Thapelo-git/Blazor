@@ -1,10 +1,12 @@
 using Northwind.Blazor.Components;
-
+using Northwind.Blazor.Services; // To use INorthwindService.
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddRazorComponents();
-
+builder.Services.AddRazorComponents().AddInteractiveServerComponents();
+builder.Services.AddNorthwindContext();
+builder.Services.AddTransient<INorthwindService,
+NorthwindServiceServerSide>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -20,6 +22,6 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseAntiforgery();
 
-app.MapRazorComponents<App>();
+app.MapRazorComponents<App>().AddInteractiveServerRenderMode();
 
 app.Run();

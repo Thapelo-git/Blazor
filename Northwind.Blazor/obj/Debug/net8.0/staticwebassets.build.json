@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QaokNda5qkDPPDVGr9BVoHkS8JHQUUs0ENHR7LOuE4I=",
+  "Hash": "yfK6Vv75Bh1HNWkoi/nlalFFLsYArkxXf73eiMtK7TM=",
   "Source": "Northwind.Blazor",
   "BasePath": "_content/Northwind.Blazor",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor/wwwroot/icons.css",
+      "SourceId": "Northwind.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor/wwwroot/",
+      "BasePath": "_content/Northwind.Blazor",
+      "RelativePath": "icons.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/icons.css"
     }
   ]
 }

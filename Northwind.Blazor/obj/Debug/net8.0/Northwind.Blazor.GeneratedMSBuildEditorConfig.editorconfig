@@ -22,6 +22,26 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor/Components/CustomerDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9DdXN0b21lckRldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor/Components/Pages/CreateCustomer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DcmVhdGVDdXN0b21lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor/Components/Pages/Customers.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DdXN0b21lcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor/Components/Pages/DeleteCustomer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9EZWxldGVDdXN0b21lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor/Components/Pages/EditCustomer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FZGl0Q3VzdG9tZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

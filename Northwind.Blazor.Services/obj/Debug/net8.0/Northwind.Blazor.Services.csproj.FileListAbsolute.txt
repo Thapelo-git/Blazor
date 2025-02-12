@@ -1,0 +1,16 @@
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/bin/Debug/net8.0/Northwind.Blazor.Services.deps.json
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/bin/Debug/net8.0/Northwind.Blazor.Services.dll
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/bin/Debug/net8.0/Northwind.Blazor.Services.pdb
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/bin/Debug/net8.0/Northwind.EntityModels.Sqlite.dll
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/bin/Debug/net8.0/Northwind.EntityModels.Sqlite.pdb
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/Northwind.Blazor.Services.csproj.AssemblyReference.cache
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/Northwind.Blazor.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/Northwind.Blazor.Services.AssemblyInfoInputs.cache
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/Northwind.Blazor.Services.AssemblyInfo.cs
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/Northwind.Blazor.Services.csproj.CoreCompileInputs.cache
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/Northwind.Blazor.Services.sourcelink.json
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/Northwind.Blazor.Services.csproj.CopyComplete
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/Northwind.Blazor.Services.dll
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/refint/Northwind.Blazor.Services.dll
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/Northwind.Blazor.Services.pdb
+/home/thapelo/Documents/cs12dotnet8/Practicals/Northwind.Blazor.Services/obj/Debug/net8.0/ref/Northwind.Blazor.Services.dll
